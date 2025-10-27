@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: https://content.da.live/aemysites/gpoalelungi-251027/
+    type: markup
