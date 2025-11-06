@@ -1,0 +1,45 @@
+{
+  "variantName": "cards-stories",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2025-11-06T09:34:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.wknd-trendsetters.site/",
+    "originPage": "Fashion blog homepage - story cards section",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "grey",
+    "density": "spacious",
+    "purpose": "article-preview",
+    "imagePattern": "large",
+    "textLength": "medium"
+  },
+  "contentPattern": {
+    "structure": "image + tag + title + description + CTA",
+    "headingMaxLength": 50,
+    "descriptionMaxLength": 150,
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "Blog article previews",
+      "Story cards with images",
+      "Product showcases with descriptions"
+    ],
+    "notSuitableFor": [
+      "Simple feature lists",
+      "Cards without images",
+      "Minimal content cards"
+    ],
+    "similarVariants": []
+  },
+  "usage": {
+    "pagesUsing": [
+      "/index"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2025-11-06T09:34:00.000Z"
+  }
+}

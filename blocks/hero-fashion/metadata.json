@@ -1,0 +1,45 @@
+{
+  "variantName": "hero-fashion",
+  "baseBlock": "hero",
+  "version": "1.0.0",
+  "created": "2025-11-06T09:34:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.wknd-trendsetters.site/",
+    "originPage": "Fashion blog homepage",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "purpose": "hero-banner",
+    "imagePattern": "noimg",
+    "textLength": "medium"
+  },
+  "contentPattern": {
+    "structure": "heading + description + 2 CTAs",
+    "headingMaxLength": 60,
+    "descriptionMaxLength": 200,
+    "buttonCount": 2,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "Fashion and lifestyle sites",
+      "Clean hero sections without background images",
+      "Landing pages with dual CTAs"
+    ],
+    "notSuitableFor": [
+      "Hero sections requiring background images",
+      "Single CTA heroes",
+      "Image-heavy hero banners"
+    ],
+    "similarVariants": []
+  },
+  "usage": {
+    "pagesUsing": [
+      "/index"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2025-11-06T09:34:00.000Z"
+  }
+}

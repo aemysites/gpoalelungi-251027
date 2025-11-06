@@ -1,0 +1,45 @@
+{
+  "variantName": "tabs-fashion",
+  "baseBlock": "tabs",
+  "version": "1.0.0",
+  "created": "2025-11-06T09:34:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.wknd-trendsetters.site/",
+    "originPage": "Fashion blog homepage - tabs section",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "minimal",
+    "purpose": "content-switcher",
+    "imagePattern": "large",
+    "textLength": "short"
+  },
+  "contentPattern": {
+    "structure": "tab labels + content panels with heading + image",
+    "headingMaxLength": 40,
+    "descriptionMaxLength": 0,
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "Category switchers",
+      "Content organization with images",
+      "Interactive fashion or lifestyle sections"
+    ],
+    "notSuitableFor": [
+      "Text-heavy tabs",
+      "Tabs without visual content",
+      "Complex multi-element tabs"
+    ],
+    "similarVariants": []
+  },
+  "usage": {
+    "pagesUsing": [
+      "/index"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2025-11-06T09:34:00.000Z"
+  }
+}
